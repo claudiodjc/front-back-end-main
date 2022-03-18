@@ -1,0 +1,30 @@
+@import 'reset.css';
+
+.row{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    
+}
+
+.ajusteBotoes{
+    margin-top: 24px;
+    margin-bottom: 10px;
+}
+
+.elevacaoDiv{
+    padding: 20px;
+    box-shadow: 0 0 2rem rgba(0, 0, 0, 0.1);   
+}
+
+.table .fas{
+    cursor: pointer;
+}
+
+.row button:hover{
+    transform: scale(1.1);
+}
+
+.row a:hover{
+    transform: scale(1.1);
+    transition: 0.25s;
+}
